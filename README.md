@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+## Inspiration💡
+There is no shortage of people in the world who can think in a logical, structured way, but are not necessarily programmers. Text-based coding is not easy. In the new era, where software development is in high demand and programming has become an essential skill. When you look at the programming languages, you will notice that they are designed by engineers, for engineers. . Codeinventor was inspired by a desire to bring more visual tools to market, allowing more people to become programmers without needing to code.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What it does❓
+codeinventer is a no code based programming tool which make block coding and use it for hardware as well as software programming for hardware we have only arduino based and for software we have javascript python and php language generators.we can save our projects too. and retrieve them when we needed .Codeinventor makes made programming easier for students and people who don't know programming.
+- Provide robust user authentication.
+- Creating and Managing Projects.
+- Block based programming for text-based programming languages like PHP, Python and
+- JavaScript.
+- Also Block based programming for Arduino
+- Can make software projects as well as hardware projects with codeinventor
 
-## Available Scripts
+## How we built it🙆‍♂️💻
+- Codeinventor is built using Reactjs for the front end and Appwrite for the back end. We integrate with Appwrite for authentication and single sign on allowing for seamless integration with Teams. 
+- we have used python and php technologies.
 
-In the project directory, you can run:
+## Challenges we ran into🎖️
+- It was the first time we were using Appwrite to it makes difficult as we need to see every small thing before implementing
 
-### `npm start`
+## Accomplishments that we're proud of📝
+- we are proud of successfully completing the project in the deadline using new tools and technologies like Appwrite and ocaml. Block-based programming is the best solution to the below problem. Thus, we believe that our idea is authentic.
+- Combining our creativity and research abilities to build a beautiful web application.
+- We also learned how to work remotely. We learned how to use new tools for remote work, like VS Code's Live Share features, ngrok for localhost port forwarding, GitHub for collaboration, and how to integrate APIs with the software.
+## What we learned
+- Reading the detailed documentation from Appwrite https://appwrite.io/docs was very helpful.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## What's next for CodeInventor
+- From here we'll be adding more visuals, a data frame based SQL Query builder, and a data frame based ETL tool similar to Power BI Data Flows and/or Power Query.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
