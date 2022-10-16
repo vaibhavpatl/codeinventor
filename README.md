@@ -1,3 +1,5 @@
+![](https://cdn.discordapp.com/attachments/889907958857744494/1031187448027414598/gallery.jpg)
+
 ## Inspiration💡
 There is no shortage of people in the world who can think in a logical, structured way, but are not necessarily programmers. Text-based coding is not easy. In the new era, where software development is in high demand and programming has become an essential skill. When you look at the programming languages, you will notice that they are designed by engineers, for engineers. . Codeinventor was inspired by a desire to bring more visual tools to market, allowing more people to become programmers without needing to code.
 
